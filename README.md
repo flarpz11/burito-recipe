@@ -1,1 +1,1 @@
-# odin-recipes
+# mexico-recipes
